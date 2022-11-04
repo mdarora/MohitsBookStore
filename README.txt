@@ -49,3 +49,9 @@ Mohit
 	-got a new error for errorviewmodel
 0420
 	-solved this by adding viewmodels in using statement
+0422
+	-got the same error twice after building
+0424
+	-got it same type of solution but in different file
+0425
+	-Finally build success, but dropdown still not working
