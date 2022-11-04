@@ -30,3 +30,5 @@ Mohit
 	-got dropdown from bootswatch instead of getbotstrap, but now its not collapsing
 0338
 	-couldn't figure out why dropdown is not working, moving to next part for now
+0342
+	-Added three new projects to solution, now time to install packages most error prone part
