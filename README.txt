@@ -32,3 +32,8 @@ Mohit
 	-couldn't figure out why dropdown is not working, moving to next part for now
 0342
 	-Added three new projects to solution, now time to install packages most error prone part
+0347
+	-As expected here is our beautiful error  (NU1202: Package Microsoft.EntityFrameworkCore.Relational 6.0.10 is not compatible with netcoreapp3.1 (.NETCoreApp,Version=v3.1)
+	-Installing different version
+0349
+	-installed packages with version compaitable with .net3.1
