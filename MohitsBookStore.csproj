@@ -22,4 +22,9 @@
     <ProjectReference Include="..\MohitsBooks.Utility\MohitsBooks.Utility.csproj" />
   </ItemGroup>
 
+  <ItemGroup>
+    <Folder Include="Areas\Customers\Controllers\" />
+    <Folder Include="Areas\Customers\Views\" />
+  </ItemGroup>
+
 </Project>
