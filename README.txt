@@ -22,3 +22,11 @@ Mohit
 	- worked fine bootswatch theme applied
 0307
 	-pasted css and js links inlayout file
+0316
+	-COOOOOOOFFFFFFEEEEEEEEEE
+0320
+	-dropdown not working
+0323
+	-got dropdown from bootswatch instead of getbotstrap, but now its not collapsing
+0338
+	-couldn't figure out why dropdown is not working, moving to next part for now
