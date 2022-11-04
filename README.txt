@@ -14,3 +14,7 @@ Mohit
 	-The program '[24908] iisexpress.exe' has exited with code 4294967295 (0xffffffff). program crashed
 0252
 	-continued the process now, forgot to pulgin and click continue.
+0255
+	-confused to select the bootstrap theme, like the dark one
+0300
+	-added bootswatch theme, changed bootstrap classes in nav and loginpartials
