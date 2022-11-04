@@ -65,3 +65,5 @@ Mohit
 	-fixed err and build succeeded
 0502
 	-got error after running, couldn't figure it out so reverted back to working commit
+0506
+	-build , working , opened in browser, but still dropdown not working
