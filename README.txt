@@ -37,3 +37,15 @@ Mohit
 	-Installing different version
 0349
 	-installed packages with version compaitable with .net3.1
+0354
+	-Edited namespace of db context and deleted class1 files, time to build
+0355
+	-error is welcoming us (The type or namespace name 'Data' does not exist in the namespace 'MohitsBookStore' (are you missing an assembly reference?)
+0413
+	-stuck on namespcase error, trying to continue with refrences
+0416
+	-error gone after adding references
+0418
+	-got a new error for errorviewmodel
+0420
+	-solved this by adding viewmodels in using statement
