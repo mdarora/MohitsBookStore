@@ -18,3 +18,7 @@ Mohit
 	-confused to select the bootstrap theme, like the dark one
 0300
 	-added bootswatch theme, changed bootstrap classes in nav and loginpartials
+0303
+	- worked fine bootswatch theme applied
+0307
+	-pasted css and js links inlayout file
